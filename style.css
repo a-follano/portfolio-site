@@ -24,6 +24,14 @@ body {
     font-family: Manjari;
 }
 
+h2 {
+    font-family: "Manjari";
+}
+
+h3 {
+    font-family: "Malibu";
+}
+
 .hero {
     font-family: Malibu;
     background-color: #FFF617;
