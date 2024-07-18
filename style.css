@@ -45,3 +45,8 @@ h3 {
     align-items: center;
     height: 100vh;
 }
+
+.hero h1 {
+    font-size: 10vw;
+    text-align: center;
+}
