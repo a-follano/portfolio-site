@@ -28,6 +28,7 @@ body {
 
 h2 {
     font-family: "Manjari";
+    font-size: 5vw;
 }
 
 h3 {
@@ -52,7 +53,7 @@ h3 {
 }
 
 .hero h1 {
-    font-size: 10vw;
+    font-size: 20vw;
     font-weight:normal;
     margin-bottom: 0px;
 }
