@@ -121,3 +121,12 @@ h3 {
     height: 100vh;
     flex-shrink: 0;
 }
+
+.footer {
+    padding: 30px;
+    margin:0px;
+    background-color: #FFF617;
+    color: #252323;
+    text-align: center;
+
+}
