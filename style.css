@@ -111,3 +111,13 @@ h3 {
 .profilelinks {display:flex;
 
 }
+
+.portfolio {
+    height: 100vh;
+    flex-shrink:0;
+}
+
+.contact {
+    height: 100vh;
+    flex-shrink: 0;
+}
