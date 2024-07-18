@@ -6,6 +6,7 @@
     font-family: "Manjari";
     src: url(fonts/manjari-regular-webfont.woff);
     font-weight: 400;
+    line-height: 100;
 }
 @font-face {
     font-family: "Manjari";
@@ -24,11 +25,7 @@ body {
     font-family: "Manjari";
     padding:0px;
     margin:0px;
-}
 
-h2 {
-    font-family: "Manjari";
-    font-size: 5vw;
 }
 
 h3 {
@@ -43,17 +40,29 @@ h3 {
     font-family: Malibu;
     background-color: #FFF617;
     color:#252323;
+    margin: 0px;
+    padding:0px;
+    height:100vh;
     display: flex;
     flex-direction:column;
-    margin: 0px;
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 100vh;
+
 }
 
+
 .hero h1 {
-    font-size: 20vw;
     font-weight:normal;
-    margin-bottom: 0px;
+    margin:0px;
+    font-size: 20vw;
+    flex-shrink:1
+
 }
+
+.hero h2 {
+    font-family: "Manjari";
+    flex-shrink: 0;
+    font-size: 5vw;
+}
+
