@@ -1,9 +1,31 @@
+@font-face {
+    font-family: "Malibu";
+    src: url(fonts/Malibu.woff);
+}
+@font-face {
+    font-family: "Manjari";
+    src: url(fonts/manjari-regular-webfont.woff);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Manjari";
+    src: url(fonts/manjari-bold-webfont.woff);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Manjari";
+    src: url(fonts/manjari-thin-webfont.woff);
+    font-weight: 200;
+}
+
 body {
     background-color: #252323;
     color: #EEEDE0;
+    font-family: Manjari;
 }
 
 .hero {
+    font-family: Malibu;
     background-color: #FFF617;
     color:#252323;
 }
