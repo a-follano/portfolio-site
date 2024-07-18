@@ -75,9 +75,22 @@ h3 {
     flex-direction:column;
     justify-content: center;
     align-items: center;
+    flex-grow: 0px;
 }
  
 .profile-pic {
-    width:20vw;
+    width: 18em;
     border-radius: 50%;
+    margin-right: 5vw;
 }
+
+.about-container {
+    display: flex;
+    align-items: center;
+}
+
+.about-container div {
+   
+
+}
+
