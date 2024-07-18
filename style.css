@@ -89,8 +89,10 @@ h3 {
     align-items: center;
 }
 
-.about-container div {
-   
-
+.linkicon {
+    background-color: #58EAA4;
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
 }
 
