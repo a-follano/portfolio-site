@@ -76,6 +76,8 @@ h3 {
 .downicon {
     width:5rem;
     margin-top: 100px;
+    filter: invert(12%) sepia(4%) saturate(480%) hue-rotate(314deg) brightness(93%) contrast(93%);
+
 }
 
 .contentwrapper {display:flex;
