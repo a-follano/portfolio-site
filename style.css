@@ -77,6 +77,10 @@ h3 {
     margin:0px;
 }
 
+.downicon {
+    width:5rem;
+    margin-top: 100px;
+}
 .contentwrapper {display:flex;
     flex-direction: column;
     justify-content:center;
