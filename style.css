@@ -35,7 +35,14 @@ h3 {
     font-weight: normal;
     text-align:center;
     font-size: 3em;
+    border-bottom: 40px #F26161 solid;
+    padding-right:0px;
+    margin-bottom:0px;
+    display:block;
 }
+
+
+
 
 .hero {
     font-family: "Malibu";
